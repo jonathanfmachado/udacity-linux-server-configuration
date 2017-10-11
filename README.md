@@ -24,5 +24,6 @@ http://ec2-18-220-43-67.us-east-2.compute.amazonaws.com/catalog/
 
 ##  List of third-party resources used to complete this project ## 
 - Git
+- pip
 - https://www.tecmint.com/disable-or-enable-ssh-root-login-and-limit-ssh-access-in-linux/
 - http://blog.codeasite.com/how-do-i-find-apache-http-server-log-files
